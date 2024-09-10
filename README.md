@@ -7,11 +7,11 @@
 <a target="_blank">
   <img align="right" height="200" width="350" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
-</br>
+</br>https://github.com/
 
 - 👀 I’m interested in applied ML and AI, System Administration and Web Development.
 
-- 🌱 I’m currently learning System Administration and Web Development.
+- 🌱 I’m currently learning AI.
 
 -  👨‍💻 All of my projects are available [@enstazao](https://github.com/enstazao)
 
